@@ -1,11 +1,11 @@
-# Methamphetamine
-A jailed customization tool for iOS 17.0+, using MDM configuration profiles.
-> Warning: Please use this tool at your own risk. I have not tested any of these tools yet.
+# Lithium
+A jailed customization tool for iOS 17.0+, using MDM configuration profiles and Shortcuts.
+> Warning: Please use this tool at your own risk. I am not responsible for any unexpected outcomes.
 
 ## Before you start...
-You will need to supervise your device, preferably with Cowabunga Lite.
+You will need to supervise your device, preferably with Cowabunga Lite. 
+- [Supervision Guide (for Cowabunga Lite)](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
 
-Guide (CBL): https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab
 ## Feature List
 - Feature Flags
     - Disable Camera
@@ -28,5 +28,4 @@ Guide (CBL): https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b
     - WebClip Generator
 - Miscellaneuous
     - Disable App Notifcations
-    - Bypass Setup Screen
-    - Inject Fonts
+    - Install Fonts (this does not apply custom fonts system-wide, that is impossible)
