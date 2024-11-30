@@ -2,6 +2,9 @@
 A jailed customization tool for iOS 17.0+, using MDM configuration profiles and Shortcuts.
 > Warning: Please use this tool at your own risk. I am not responsible for any unexpected outcomes.
 
+
+> Lithium is currently in beta. If you have any questions or need support, join our [Discord Server.](https://discord.gg/nocturna-team-1144047674614616135)
+
 ## Before you start...
 You will need to supervise your device, preferably with Cowabunga Lite. 
 - [Supervision Guide (for Cowabunga Lite)](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
