@@ -1,34 +1,44 @@
 # Lithium
-A jailed customization tool for iOS 17.0+, using MDM configuration profiles and Shortcuts.
-> Warning: Please use this tool at your own risk. I am not responsible for any unexpected outcomes.
+Get more control over your jailed iPhone/iPad. iOS/iPadOS 17.0+.
+<p align="left">
+  <strong><a href="https://github.com/lunginspector/Lithium/releases">Download</a></strong>
+  •
+  <strong><a href="https://discord.gg/nocturna-team-1144047674614616135">Discord Server</a></strong>
+</p>
 
+> [!WARNING]
+> Lithium is currently in beta. Expect bugs and unfinished features.
 
-> Lithium is currently in beta. If you have any questions or need support, join our [Discord Server.](https://discord.gg/nocturna-team-1144047674614616135)
+## READ ME BEFORE YOU START
+You will need to supervise your device before using this tool. You can do it with [this Guide.](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
 
-## Before you start...
-You will need to supervise your device, preferably with Cowabunga Lite. 
-- [Supervision Guide (for Cowabunga Lite)](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
-
-## Feature List
-- Feature Flags
-    - Disable Camera
-    - Disable Watch
-    - Disable iMessage
-    - Disable Siri
-    - Disable Spotlight Results
-    - Disable Screenshots
-    - Disable Predictive Keyboard
-    - Disable Dication
-    - DelayOTA (90 day limit)
-    - Enable WiFi when powered on
-    - Disable Wallpaper Modification
-    - Disable Proximity Setup
-    - Disable Screen Time
-    - Keep Device from Locking
-- Home & Lock Screen
-    - Home Screen Layout
-    - Lock Screen Footnote
-    - WebClip Generator
-- Miscellaneuous
-    - Disable App Notifcations
-    - Install Fonts (this does not apply custom fonts system-wide, that is impossible)
+### 
+## Features
+* Feature Flags
+    * This list of features are things that you can disable with Lithium.
+    * App Clips
+    * App Modification (Installation and Removal)
+    * Safari
+    * Wallpaper Modification
+    * Camera
+    * Screenshots & Screen Recording
+    * Proximity Features (Device Setup, WiFi Sharing)
+    * Multitasking
+    * NFC
+    * Siri
+    * AirDrop
+    * Paird Watch
+    * Profile Installation
+    * Erase Content & Settings
+    * Account Modification
+    * Location Metadata in Photos
+    * Game Center
+* Disable Home Screen Editing
+    * This will change your layout & remove the ability to edit the home screen.
+* WebClip Generator
+* Lock Screen Footnote
+* Supress App Notifications
+    * This will FULLY disable any notifications for any app regardless of the current settings.
+* DelayOTA (90-day limit)
+* Font Installer
+    * This does not change your device's font. Instead, this adds an extra font of your choosing that you can use in apps that support the font picker.
