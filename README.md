@@ -1,5 +1,5 @@
 # Lithium
-Get more control over your jailed iDevice. iOS 17.0+
+Get more control over your jailed iDevice. iOS 16.0+
 <p align="left">
   <strong><a href="https://github.com/lunginspector/Lithium/releases">Download</a></strong>
   •
@@ -8,7 +8,6 @@ Get more control over your jailed iDevice. iOS 17.0+
 
 >[!IMPORTANT]
 > You will need to supervise your device before using this tool. You can do it with [this guide.](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
-
 >[!WARNING]
 > By using this tool, you agree that I (lunginspector) will not be held responsible if any unexpected outcomes occur by using this tool. Use at your own risk.
 
@@ -22,7 +21,12 @@ Get more control over your jailed iDevice. iOS 17.0+
 * iPhone 12 mini, iOS 17.5.1
 
 ### Features
-* **Restriction Tweaks**
+* **App Management**
+    * App Visibility
+        * This feature will hide almost any application from all views, including the home screen, app library, spotlight, and more.
+    * App Notifications
+        * This feature will fully disable all notifications for almost any application.
+* **Systemwide Configuration**
     * Modify Features
         * Home Screen & Apps
             * App Clips
@@ -51,11 +55,6 @@ Get more control over your jailed iDevice. iOS 17.0+
         * Screen Time
         * Classroom Features
         * Explicit Content (iTunes, Bookstore)
-    * Disable Applications
-        * This will remove the chosen app(s) from ALL views, including on the home/lock screen, Settings, and any other views where the app may show up.
-        * This works on almost all user-installed Applications and some system applications.
-    * Delay Software Updates (90-day limit)
-        * This will delay all software updates 90 (or less) days after the older software was released.
 * **Home & Lock Screen**
     * Lock Screen Footnote
         * This will add a **customizable** text label at the bottom of your lock screen.
@@ -70,3 +69,5 @@ Get more control over your jailed iDevice. iOS 17.0+
         * This does not change your font system-wide. Instead, this allows you to use custom fonts in any app that supports the font picker.
     * Import Profile
         * If you have a custom profile you'd like to import, you can do it here. Meant for developers.
+    * Delay Software Updates (90-day limit)
+        * This will delay all software updates 90 (or less) days after the older software was released.
