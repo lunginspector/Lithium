@@ -3,7 +3,7 @@ Get more control over your jailed iDevice. iOS 16.0+
 <p align="left">
   <strong><a href="https://github.com/lunginspector/Lithium/releases">Download</a></strong>
   •
-  <strong><a href="https://discord.gg/nocturna-team-1144047674614616135">Discord Server</a></strong>
+  <strong><a href="https://discord.gg/XPj66zZ4gT">Discord Server</a></strong>
 </p>
 
 >[!IMPORTANT]
